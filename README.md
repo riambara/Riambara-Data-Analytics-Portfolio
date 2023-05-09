@@ -39,3 +39,16 @@ Hi! My name is Riambara Abdillah Hazazi, just called me Rio / Bara. Here is my P
 * Cluster Analysis
 ### Code Example :
 1. [Ecommerce_Exploratory_Data_Analysis](https://colab.research.google.com/drive/1kBzdAlEyiU6eK0GIZtkRq4D0-chqUc0R)
+
+## SQL Skill sets:
+* Connect and combine/ join datasets
+* Data formatting
+* Visualization
+* Calculated field
+* Interactive Dashboard
+### Example: :
+1. [Samba Commerce Order Performance Dashboard](https://public.tableau.com/app/profile/riambara.abdillah.hazazi/viz/W10W11_16801919829870/Dashboard1)
+2. [Samba Commerce Order Performance Deck](https://drive.google.com/file/d/1a1VNKY7zIW8sRttgZY-C1OwSvwDHG2q-/view?usp=sharing)
+
+## Project Based Analytics
+1. [NYC Bicycle Safety Campaign](https://drive.google.com/file/d/1NZk8jykvYeTh0hQbNXDzR06ctfEYSBlB/view?usp=sharing)
